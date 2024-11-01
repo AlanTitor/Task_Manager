@@ -1,0 +1,87 @@
+# Исключить скомпилированные файлы и папки
+bin/
+out/
+lib/
+
+# Исключить файлы конфигурации IDE
+.idea/
+*.iml
+
+# Исключить временные файлы
+*.class
+*.log
+*.tmp
+*.swp
+
+# Исключить файлы изображений
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Исключить файлы резервных копий
+*~
+*.bak
+
+# Исключить файлы, созданные системой контроля версий
+.DS_Store
+Thumbs.db
+
+# Исключить файлы, созданные тестовыми фреймворками
+target/
+build/
+dist/
+
+# Исключить файлы, созданные системой сборки
+*.jar
+*.war
+*.ear
+
+# Исключить файлы, созданные системой контроля версий
+.svn/
+.git/
+
+# Исключить файлы, созданные системой контроля версий
+.hg/
+_darcs/
+
+# Исключить файлы, созданные системой контроля версий
+CVS/
+
+# Исключить файлы, созданные системой контроля версий
+RCS/
+SCCS/
+
+# Исключить файлы, созданные системой контроля версий
+vssver.scc
+
+# Исключить файлы, созданные системой контроля версий
+.vs/
+
+# Исключить файлы, созданные системой контроля версий
+.vscode/
+
+# Исключить файлы, созданные системой контроля версий
+.settings/
+
+# Исключить файлы, созданные системой контроля версий
+.project
+.classpath
+.factorypath
+.project.cache
+.project.lock
+.project.state
+.project.tmp
+.project.user
+.project.user.lock
+.project.user.state
+.project.user.tmp
+.project.user.cache
+.project.user.lock.tmp
+.project.user.lock.state
+.project.user.lock.cache
+.project.user.lock.tmp.state
+.project.user.lock.tmp.cache
+.project.user.lock.tmp.state.cache
+.project.user.lock.tmp.state.cache.tmp
+.project.user.lock.tmp.state.cache.tmp.state
