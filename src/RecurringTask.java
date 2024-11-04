@@ -1,3 +1,5 @@
+package com.manager.gtm;
+
 public class RecurringTask extends Task{
     private final String repetition_interval;//Частота повторения задачи "Ежедневно/Еженедельно"
 
